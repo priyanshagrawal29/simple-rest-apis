@@ -15,8 +15,8 @@
 *.iws
 *.iml
 *.ipr
-
-### NetBeans ###
+###simple###
+## NetBeans ##
 /nbproject/private/
 /build/
 /nbbuild/
